@@ -3,19 +3,19 @@
 /**
  *  Ethna_Plugin_Filter_Htmlemoji
  *
- *  @author     your name <yourname@example.com>
+ *  @author     Shinya KAWAKAMI <oknm@okonomi.sakura.ne.jp>
  *  @license    http://www.opensource.org/licenses/bsd-license.php The BSD License
  *  @package    Ethna_Plugin
- *  @version    $Id: 8a2a127e671fc4d041f941820b53f33de4f24b97 $
+ *  @version    0.1.1
  */
 
 // {{{ Ethna_Plugin_Filter_Htmlemoji
 /**
  *  Filter Plugin Class Htmlemoji.
  *
- *  @author     yourname <yourname@example.com>
+ *  @author     Shinya KAWAKAMI <oknm@okonomi.sakura.ne.jp>
  *  @access     public
- *  @package    Ethna_Plugin 
+ *  @package    Ethna_Plugin
  */
 class Ethna_Plugin_Filter_Htmlemoji extends Ethna_Plugin_Filter
 {
